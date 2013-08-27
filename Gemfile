@@ -4,11 +4,6 @@ ruby '1.9.3'
 
 gem 'rails', '4.0.0'
 gem 'jquery-rails'
-gem "turbolinks"
-gem "jbuilder"
-gem "bootstrap-sass", "~> 2.3.2.0"
-gem "devise", "3.0.0.rc"
-gem "simple_form", "3.0.0.rc"
 
 group :production do
 	gem 'pg'
